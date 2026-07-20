@@ -12,7 +12,7 @@ class Solution(object):
             if nums[right] == 0:
                 count_zero +=1
             
-            while count_zero > k:
+            if count_zero > k:
                 if nums[left] == 0:
                     count_zero -=1
                 left +=1
