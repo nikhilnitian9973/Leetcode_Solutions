@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-shift-2d-grid](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1386-shift-2d-grid) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
