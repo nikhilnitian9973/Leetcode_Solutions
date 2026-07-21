@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1386-shift-2d-grid](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1386-shift-2d-grid) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
