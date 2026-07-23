@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1386-shift-2d-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
