@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
