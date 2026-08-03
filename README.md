@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -104,9 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 ## Counting Sort
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
