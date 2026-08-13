@@ -11,9 +11,17 @@ class Solution(object):
         :rtype: int
         """
         
+        # if root == None:
+        #     return 0
+
+        # return max(1+ self.maxDepth(root.left), 1+ self.maxDepth(root.right))
+
         if root == None:
             return 0
 
-        return max(1+ self.maxDepth(root.left), 1+ self.maxDepth(root.right))
+        leftHeight = self.maxDepth(root.left)
+        rightHeight = self.maxDepth(root.right)
+
+        return 1+max(leftHeight,rightHeight)
 
         
