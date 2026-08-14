@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4107-find-missing-elements](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
