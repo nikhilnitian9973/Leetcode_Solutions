@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0257-binary-tree-paths](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -174,9 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0112-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
