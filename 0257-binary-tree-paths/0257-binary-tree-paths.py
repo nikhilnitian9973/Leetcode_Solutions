@@ -10,22 +10,40 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[str]
         """
-        if root == None:
-            return []
+        # if root == None:
+        #     return []
 
-        result = []
-        stack = [(root,str(root.val))]
+        # result = []
+        # stack = [(root,str(root.val))]
 
 
-        while stack:
+        # while stack:
 
-            node,path = stack.pop()
+        #     node,path = stack.pop()
 
-            if node.left == None and node.right == None:
+        #     if node.left == None and node.right == None:
 
+        #         result.append(path)
+        #     if node.left:
+        #         stack.append((node.left,path + "->" + str(node.left.val)))
+        #     if node.right:
+        #         stack.append((node.right,path + "->" + str(node.right.val)))
+        # return result
+
+
+        def bTP(root,path):
+            if root == None:
+                return
+            
+            path += str(root.val)
+
+
+            if not root.left and not root.right:
                 result.append(path)
-            if node.left:
-                stack.append((node.left,path + "->" + str(node.left.val)))
-            if node.right:
-                stack.append((node.right,path + "->" + str(node.right.val)))
+                return
+            bTP(root.left,path + "->")
+            bTP(root.right,path+ "->")
+        result = []
+        bTP(root,"")
         return result
+        
