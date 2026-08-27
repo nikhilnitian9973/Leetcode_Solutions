@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Quicksort
 |  |
 | ------- |
