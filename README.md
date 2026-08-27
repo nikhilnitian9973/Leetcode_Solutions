@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
+| [0978-valid-mountain-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
 | [1018-largest-perimeter-triangle](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1386-shift-2d-grid](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1386-shift-2d-grid) |
