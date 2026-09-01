@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3705-find-the-largest-almost-missing-integer](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4107-find-missing-elements](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-shift-2d-grid](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1386-shift-2d-grid) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
 | ------- |
