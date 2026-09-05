@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4285-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [4284-smallest-stable-index-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4285-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
