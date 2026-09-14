@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0866-rectangle-overlap](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0866-rectangle-overlap) |
 | [1018-largest-perimeter-triangle](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3799-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
