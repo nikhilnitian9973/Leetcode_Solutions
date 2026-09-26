@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [1188-brace-expansion-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3811-reverse-degree-of-a-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
