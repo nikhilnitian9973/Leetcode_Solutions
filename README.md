@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [1188-brace-expansion-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1188-brace-expansion-ii) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [1188-brace-expansion-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3840-find-x-value-of-array-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3840-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
