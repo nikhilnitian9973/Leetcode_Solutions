@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
