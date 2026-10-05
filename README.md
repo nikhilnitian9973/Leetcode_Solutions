@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
+| [0886-score-of-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0886-score-of-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0886-score-of-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0886-score-of-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
