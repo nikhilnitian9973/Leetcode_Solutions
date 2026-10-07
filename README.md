@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0455-assign-cookies) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-rectangle-overlap](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0866-rectangle-overlap) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Greedy
@@ -403,4 +407,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
