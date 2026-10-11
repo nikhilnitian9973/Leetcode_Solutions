@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Greedy
