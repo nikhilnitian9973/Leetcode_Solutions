@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4107-find-missing-elements](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
