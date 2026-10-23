@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3799-unique-3-digit-even-numbers) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1487-cinema-seat-allocation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
