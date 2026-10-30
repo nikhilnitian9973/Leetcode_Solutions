@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3840-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3811-reverse-degree-of-a-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -461,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3840-find-x-value-of-array-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3840-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -500,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
