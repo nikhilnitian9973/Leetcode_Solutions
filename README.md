@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-rectangle-overlap](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0866-rectangle-overlap) |
