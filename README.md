@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0621-task-scheduler) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0621-task-scheduler) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -523,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
