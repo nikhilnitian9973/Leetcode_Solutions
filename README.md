@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-shift-2d-grid](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1386-shift-2d-grid) |
 | [1487-cinema-seat-allocation](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1188-brace-expansion-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1188-brace-expansion-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
