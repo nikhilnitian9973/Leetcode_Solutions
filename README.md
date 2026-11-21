@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3811-reverse-degree-of-a-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
