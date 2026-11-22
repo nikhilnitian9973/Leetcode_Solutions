@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
