@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3705-find-the-largest-almost-missing-integer](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3934-smallest-unique-subarray](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 | [4107-find-missing-elements](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -618,4 +621,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/nikhilnitian9973/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
